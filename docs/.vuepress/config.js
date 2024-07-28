@@ -7,7 +7,7 @@ export default defineUserConfig({
   lang: "en-US",
   title: "我的笔记",
   description: "My first VuePress Site",
-  base: "/amyrecord/",
+  base: "/",
   theme: defaultTheme({
     logo: "https://vuejs.press/images/hero.png",
 
