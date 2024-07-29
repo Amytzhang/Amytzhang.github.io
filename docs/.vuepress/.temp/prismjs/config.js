@@ -1,2 +1,2 @@
-import "C:/Users/张婷婷/Desktop/客服代码/sb/Amytzhang.github.io/node_modules/@vuepress/highlighter-helper/lib/client/styles/base.css"
-import "C:/Users/张婷婷/Desktop/客服代码/sb/Amytzhang.github.io/node_modules/@vuepress/plugin-prismjs/lib/client/styles/nord.css"
+import "/Users/zhangtingting/cording/博客模版/Amytzhang.github.io/node_modules/@vuepress/highlighter-helper/lib/client/styles/base.css"
+import "/Users/zhangtingting/cording/博客模版/Amytzhang.github.io/node_modules/@vuepress/plugin-prismjs/lib/client/styles/nord.css"
