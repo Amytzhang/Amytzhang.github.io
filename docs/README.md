@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-heroImage: .vuepress/public/1.jpeg
+heroImage: public/1.jpeg
 actions:
   - text: Get Started
     link: /getting-started.html
